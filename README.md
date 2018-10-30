@@ -1,5 +1,7 @@
 # SXOS Cheat DB
 
+NOTE This is a test repo for MentalBlank twitter bot 
+
 This is a collection of cheat codes for use with Team Xecuter's SXOS CFW on Nintendo Switch
 
 Title ID database can be found at http://nswdb.com/ and https://switchbrew.org/w/index.php?title=Title_list/Games
